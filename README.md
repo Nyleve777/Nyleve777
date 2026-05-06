@@ -26,7 +26,6 @@ My goal is to become a web developer and create beautiful and user-friendly digi
 ![](https://streak-stats.demolab.com/?user=nyleve777&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nyleve777&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=nyleve777&icon=8&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
